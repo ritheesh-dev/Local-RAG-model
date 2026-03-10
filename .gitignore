@@ -1,0 +1,6 @@
+envi/
+__pycache__/
+*.pkl
+*.index
+.DS_Store
+src/text.py
