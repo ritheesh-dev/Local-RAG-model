@@ -1,4 +1,5 @@
 Local PDF RAG System
+
 A lightweight, local Retrieval-Augmented Generation (RAG) system that allows you to chat with your PDF documents. This project uses Ollama for local embeddings and LLM generation, FAISS for efficient similarity search, and Python for the orchestration.
 
 🚀 Features
